@@ -3,7 +3,6 @@
 
 // This Class module was written by Laurent Ellerbach in C#
 // https://blogs.msdn.microsoft.com/laurelle/
-// David Weaver translated it to VB with minor changes
 
 /// <summary>
 
